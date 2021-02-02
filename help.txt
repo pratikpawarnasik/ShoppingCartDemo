@@ -1,0 +1,9 @@
+User Id : pratikpawarnasik@gmail.com
+Password: 123456789
+
+Admin URL : localhost/ShoppingCartDemo/adminLoginScreen.php
+admin id : admin
+password : admin
+
+user2 Id: ganesh@gmail.com
+password: 123456
